@@ -1,6 +1,6 @@
  /**
   * Program Name: College.java
-  * Purpose: 
+  * Purpose: The purpose of the College class is to represent and manage student information, including personal details, and contact information, and store this data in a list.
   * @author Leen Aboulhalil
   * Date:
  */
