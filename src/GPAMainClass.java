@@ -1,8 +1,8 @@
  /**
   * Program Name: GPAMainClass.java
-  * Purpose: OK DUMMY, PUT SOMETHING DESCRIPTIVE HERE!
-  * @author Your Name and Student Number goes here
-  * Date: May 12, 2024
+  * Purpose: GPAMainClass is to represent and manage student GPA information, including total credits, total points, individual grades, grade letters, GPA, and CGPA while providing methods to access and modify this data.
+  * @author Leen Aboukhalil
+  * Date: May 27, 2024
  */
 
 import java.util.*;
@@ -177,8 +177,7 @@ public class GPAMainClass {
 	{
 		return "Total credit:		" + getTotalCredit() 
 		+ String.format("\nTotal Points:		%.2f", getTotalPoints())
-		+ "\nGrade:			" + getGrade() 		
-		+ "\nAverage grade:		" + getGradeLetter() 
+		+ "\nGrade:			" + getGrade() 		 
 		+ String.format("\nGPA:			%.3f", getGpa())
 		+ String.format("\nCGPA:			%.3f\n",  getCgpa()); 	
 	}
