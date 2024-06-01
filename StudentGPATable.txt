@@ -1,0 +1,7 @@
+java,A,4.0
+c++,B+,4.0
+sql,A,3.0
+web,C,3.0
+gaem,A+,3.0
+bus,A+,3.0
+mgmt,A+,3.0
